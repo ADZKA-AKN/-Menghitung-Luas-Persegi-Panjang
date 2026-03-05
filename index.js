@@ -4,4 +4,4 @@ const LuasPersegiPanjang = (panjang, lebar) => {
 }
 
 let luasPJ = LuasPersegiPanjang(10, 20);
-console.log(luasPJ);
+console.log(luasPJ)
